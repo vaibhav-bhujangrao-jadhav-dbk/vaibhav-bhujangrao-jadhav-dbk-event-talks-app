@@ -1,0 +1,43 @@
+
+{
+  "eventTitle": "Tech Talks 2026",
+  "eventDate": "May 1st, 2026",
+  "talks": [
+    {
+      "title": "The Future of JavaScript",
+      "speakers": ["Vaibhav Jadhav"],
+      "description": "An in-depth look at the upcoming features in JavaScript and how they will shape the future of web development.",
+      "categories": ["Web", "JavaScript", "Frontend"]
+    },
+    {
+      "title": "Building Scalable APIs with Node.js",
+      "speakers": ["Jane Doe"],
+      "description": "Learn how to design and build RESTful APIs that can handle millions of requests, using Node.js and Express.",
+      "categories": ["Backend", "Node.js", "API"]
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "speakers": ["John Smith"],
+      "description": "A beginner-friendly introduction to the world of machine learning, covering the basic concepts and algorithms.",
+      "categories": ["AI", "Machine Learning", "Data Science"]
+    },
+    {
+      "title": "Deploying Applications with Docker and Kubernetes",
+      "speakers": ["Peter Jones"],
+      "description": "This talk will guide you through the process of containerizing your applications with Docker and deploying them on a Kubernetes cluster.",
+      "categories": ["Cloud", "DevOps", "Containers"]
+    },
+    {
+      "title": "The State of Mobile Development",
+      "speakers": ["Mary Johnson"],
+      "description": "An overview of the current trends in mobile development, comparing native and cross-platform solutions.",
+      "categories": ["Mobile", "Android", "iOS"]
+    },
+    {
+      "title": "Cybersecurity in 2026",
+      "speakers": ["David Williams"],
+      "description": "Learn about the latest threats in cybersecurity and how to protect your applications and infrastructure from attacks.",
+      "categories": ["Security", "Cybersecurity", "Networking"]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+#eventTitle {
+    margin: 0;
+}
+
+.search-container {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+#searchInput {
+    padding: 0.5rem;
+    width: 50%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.schedule-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.talk {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.talk h2 {
+    margin-top: 0;
+}
+
+.talk .time {
+    font-weight: bold;
+}
+
+.talk .speakers {
+    font-style: italic;
+}
+
+.talk .categories {
+    margin-top: 0.5rem;
+}
+
+.talk .categories span {
+    background-color: #eee;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+}
